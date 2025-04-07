@@ -89,7 +89,61 @@
             "order_value": 922,
             "order_date": "10/06/2023",
             "status": "Completed",
-            "avatar": "Avatar (6).png"
+            "avatar": "Avatar.png"
+        },
+        {
+            "customer_id": 7,
+            "customer_name": "Sophia Martinez",
+            "company": "TechFusion",
+            "order_value": 633,
+            "order_date": "14/09/2023",
+            "status": "New",
+            "avatar": "Avatar (1).png"
+        },
+        {
+            "customer_id": 8,
+            "customer_name": "Liam Wilson",
+            "company": "EcoSolutions",
+            "order_value": 545,
+            "order_date": "17/09/2023",
+            "status": "New",
+            "avatar": "Avatar (2).png"
+        },
+        {
+            "customer_id": 9,
+            "customer_name": "Mia Johnson",
+            "company": "CloudTech",
+            "order_value": 833,
+            "order_date": "20/09/2023",
+            "status": "In-progress",
+            "avatar": "Avatar (3).png"
+        },
+        {
+            "customer_id": 10,
+            "customer_name": "James Harris",
+            "company": "DataTrackers",
+            "order_value": 590,
+            "order_date": "02/10/2023",
+            "status": "In-progress",
+            "avatar": "Avatar (4).png"
+        },
+        {
+            "customer_id": 11,
+            "customer_name": "Olivia Lee",
+            "company": "SmartSys",
+            "order_value": 484,
+            "order_date": "05/10/2023",
+            "status": "Completed",
+            "avatar": "Avatar (5).png"
+        },
+        {
+            "customer_id": 12,
+            "customer_name": "Jack Taylor",
+            "company": "NextGenTech",
+            "order_value": 678,
+            "order_date": "06/10/2023",
+            "status": "Completed",
+            "avatar": "Avatar.png"
         }
     ]
 }
