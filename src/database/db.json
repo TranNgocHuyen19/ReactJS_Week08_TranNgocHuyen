@@ -1,0 +1,95 @@
+{
+    "orders": [
+        {
+            "id": "1",
+            "orderDate": "2025-03-01",
+            "totalPrice": 100.15
+        },
+        {
+            "id": "2",
+            "orderDate": "2025-03-02",
+            "totalPrice": 150.25
+        },
+        {
+            "id": "3",
+            "orderDate": "2025-03-03",
+            "totalPrice": 200.43
+        },
+        {
+            "id": "4",
+            "orderDate": "2025-03-04",
+            "totalPrice": 80.84
+        },
+        {
+            "id": "5",
+            "orderDate": "2025-03-05",
+            "totalPrice": 300.23
+        },
+        {
+            "id": "6",
+            "orderDate": "2025-03-06",
+            "totalPrice": 120.34
+        },
+        {
+            "id": "7",
+            "orderDate": "2025-03-07",
+            "totalPrice": 250.23
+        }
+    ],
+    "customers": [
+        {
+            "customer_id": 1,
+            "customer_name": "Elizabeth Lee",
+            "company": "AvatarSystems",
+            "order_value": 359,
+            "order_date": "10/07/2023",
+            "status": "New",
+            "avatar": "Avatar (1).png"
+        },
+        {
+            "customer_id": 2,
+            "customer_name": "Carlos Garcia",
+            "company": "SmoozeShift",
+            "order_value": 747,
+            "order_date": "24/07/2025",
+            "status": "New",
+            "avatar": "Avatar (2).png"
+        },
+        {
+            "customer_id": 3,
+            "customer_name": "Elizabeth Bailey",
+            "company": "Prime Time Telecom",
+            "order_value": 564,
+            "order_date": "08/08/2023",
+            "status": "In-progress",
+            "avatar": "Avatar (3).png"
+        },
+        {
+            "customer_id": 4,
+            "customer_name": "Ryan Brown",
+            "company": "OmniTech Corporation",
+            "order_value": 541,
+            "order_date": "31/08/2023",
+            "status": "In-progress",
+            "avatar": "Avatar (4).png"
+        },
+        {
+            "customer_id": 5,
+            "customer_name": "Ryan Young",
+            "company": "DataStream Inc.",
+            "order_value": 769,
+            "order_date": "01/05/2023",
+            "status": "Completed",
+            "avatar": "Avatar (5).png"
+        },
+        {
+            "customer_id": 6,
+            "customer_name": "Hailey Adams",
+            "company": "FlowRush",
+            "order_value": 922,
+            "order_date": "10/06/2023",
+            "status": "Completed",
+            "avatar": "Avatar (6).png"
+        }
+    ]
+}

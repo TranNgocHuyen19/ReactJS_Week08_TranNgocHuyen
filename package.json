@@ -7,11 +7,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "server": "json-server --watch src/database/db.json --port 3000"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.3",
     "antd": "^5.24.6",
+    "json-server": "^1.0.0-beta.3",
     "lucide-react": "^0.487.0",
     "react": "^19.1.0",
     "react-dom": "^19.0.0",
